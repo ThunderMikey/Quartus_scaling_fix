@@ -3,9 +3,11 @@ Fix Quartus scaling problem on my 4k scheen with 225% scaling Windows machine.
 1. Copy two manifests to /bin64 folder where quartus.exe is stored.
 
 2. Add entry to registry.
+
 ![alt](http://winaero.com/blog/wp-content/uploads/2016/02/DPI3-600x279.png)
-*****
-A few references, credit list
+---
+A few references, credit list:
+
 [altera forum](http://www.alteraforum.com/forum/archive/index.php/t-53385.html)
 
 [a detailed blog providing universal solutions](http://winaero.com/blog/how-to-fix-apps-that-look-small-on-high-dpi-and-high-resolution-displays/)
