@@ -1,5 +1,13 @@
 Fix Quartus scaling problem on my 4k scheen with 225% scaling Windows machine.
 
+Before:
+
+![Before](https://github.com/ThunderMikey/Quartus_scaling_fix/raw/master/Before.PNG)
+
+After:
+
+![After](https://github.com/ThunderMikey/Quartus_scaling_fix/raw/master/After.PNG)
+
 1. Copy two manifests to /bin64 folder where quartus.exe is stored.
 
 2. Add entry to registry.
